@@ -1,0 +1,8 @@
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Exclude drafts / rest
+rest/
