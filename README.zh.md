@@ -33,6 +33,8 @@
 
 Jupyter Notebook 作为**编排层（orchestration layer）**，用于组合数据加载、分析与可视化，以回答具体研究问题。
 
+已渲染的图表和交互式可视化请参见 VIEW_FIGURES.md。
+
 ---
 
 ## Notebook 概览（面向研究者）

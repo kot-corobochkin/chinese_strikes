@@ -36,6 +36,8 @@ The project follows a **modular design**:
 
 Notebooks act as **orchestration layers**, combining these components for specific research questions.
 
+For rendered figures and interactive visualizations, see VIEW_FIGURES.md.
+
 ---
 
 ## Notebooks Overview (for researchers)
