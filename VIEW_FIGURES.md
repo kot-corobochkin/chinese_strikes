@@ -37,8 +37,8 @@ All notebooks are therefore linked via **nbviewer**, which displays figures corr
   https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/12_strikes_by_state_and_response.ipynb
 
 - **13–14 — Industry × region**  
-  https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/13_industries_sunbursts.ipynb  
-  https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/14_strikes_by_state_and_industry.ipynb
+  https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/13_industries_sunbirsts.ipynb  
+  https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/14_strikes_by_state_and_industries.ipynb
 
 - **15 — Structural labor power**  
   https://nbviewer.org/github/kot-corobochkin/chinese_strikes/blob/main/notebooks/15_structural_labor_power.ipynb
